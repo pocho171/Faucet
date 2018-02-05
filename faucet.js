@@ -1,6 +1,5 @@
 var s=[
 "http://bonusbitcoin.co/?ref=0455D63AE593",
-"https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2FTrabajadoresMpps%2F",
 "http://frenchbitgirl.space/?r=2334",
 "http://claimbtc.com/?r=62ae7a2317",
 "http://coin64.com/home/aKSZqg==",
