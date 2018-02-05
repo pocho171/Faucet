@@ -180,7 +180,6 @@ var s=[
 "www.faucetfreebitcoin.com//math.php?r=1Aqw5KqvSByNCZf4DwcPeRCM8DkDpA7cos",
 "http://adsroyale.com/page/landing/1/307",
 "http://www.daddycoins.com/?referer=1Aqw5KqvSByNCZf4DwcPeRCM8DkDpA7cos"
-
 "http://takefreebitcoin.com/?r=5d4936d33e"
 ];
 var adr,i,x=0,c=s.length;
