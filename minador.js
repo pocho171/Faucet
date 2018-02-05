@@ -1,5 +1,5 @@
 var s=[
-"http://elmundoenfermeriavzla.blogspot.com/",
+"http://cryptoracers.com",
 "http://bonusbitcoin.co/?ref=0455D63AE593",
 "http://claimbtc.com/?r=62ae7a2317",
 "http://coin64.com/home/aKSZqg==",
