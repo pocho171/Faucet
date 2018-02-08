@@ -8,7 +8,6 @@ var s=[
 "http://moonliteco.in/?ref=1390c45aa824",
 "https://cryptomininggame.com",
 "https://freebitco.in/?r=12252744"
-"https://www.aprendum.com"
 ];
 var adr,i,x=0,c=s.length;
 function address() {
