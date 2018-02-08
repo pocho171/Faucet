@@ -4,7 +4,8 @@ var s=[
 "http://bonusbitcoin.co/?ref=0455D63AE593",
 "https://bootswatch.com",
 "http://givecoins.net/?r=1Aqw5KqvSByNCZf4DwcPeRCM8DkDpA7cos",
-"http://takefreebitcoin.com/?r=5d4936d33e"
+"http://takefreebitcoin.com/?r=5d4936d33e",
+ "https://freebitco.in/?r=12252744"
 ];
 var adr,i,x=0,c=s.length;
 function address() {
