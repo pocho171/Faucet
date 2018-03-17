@@ -7,7 +7,7 @@ var s=[
 "http://moondoge.co.in/?ref=7fa4c51e997b",
 "http://moonliteco.in/?ref=1390c45aa824",
 "https://cryptomininggame.com",
-"https://freebitco.in/?r=12252744"
+"https://freebitco.in/?r=12252744",
 "https://freedoge.co.in/?r=2122377"
 ];
 var adr,i,x=0,c=s.length;
