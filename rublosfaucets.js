@@ -1,4 +1,5 @@
 var s=[
+"http://paginaavisos.blogspot.com/2018/03/inicio-rublosfaucet.html",
 "http://bonget.pw/?i=SMakvLNv",
 "http://bonpark.pw/?i=SMakvLNv",
 "http://bonbar.pw/?i=SMakvLNv",
