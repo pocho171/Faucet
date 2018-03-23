@@ -9,7 +9,9 @@ var s=[
 "http://boniks.pw/?inv=jahdfcgf",
 "http://bonustok.pw/?inv=jahdfcgf",
 "http://rubbon.pw/?i=2257",
-"http://rubdar.pw/?i=2027"
+"http://rubdar.pw/?i=2027",
+"http://slotbox.ru/ref/PJFUJtJUaF",
+"http://bonus-slot.ru/ref/V43qEUhY0m"
 ];
 var adr,i,x=0,c=s.length;
 function address() {
