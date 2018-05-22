@@ -1,6 +1,6 @@
 var s=[
 "http://bonusbitcoin.co/?ref=0455D63AE593",
-"http://moonb.ch/?ref=9FAA73AF2154",
+"http://moonbitcoin.cash/?ref=9FAA73AF2154",
 "http://moondash.co.in/?ref=C9D9211EDB5C",
 "http://moonbit.co.in/?ref=5d6b8c8df742",
 "http://bitfun.co/?ref=7DEBD8CC41F9",
